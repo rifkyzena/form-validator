@@ -29,16 +29,13 @@ This one was a bit tricky to set up the required pattern. Basically you will nee
 **The message box below the register button will change accordingly depending if you have successfully entered every query or if you did a specific mistake.**
 
 ## Resource and references used:
-https://www.w3schools.com/html/html_forms.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
-https://developer.mozilla.org/en-US/docs/Web/CSS/:valid
-https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation
-https://html.com/attributes/input-pattern/
-https://regexr.com/3bfsi
-
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
-
-https://www.w3schools.com/jsref/event_preventdefault.asp
-
-https://css-tricks.com/form-validation-part-1-constraint-validation-html/
+- https://www.w3schools.com/html/html_forms.asp
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
+- https://developer.mozilla.org/en-US/docs/Web/CSS/:valid
+- https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation
+- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation
+- https://html.com/attributes/input-pattern/
+- https://regexr.com/3bfsi
+- https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event
+- https://www.w3schools.com/jsref/event_preventdefault.asp
+- https://css-tricks.com/form-validation-part-1-constraint-validation-html/
