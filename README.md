@@ -7,7 +7,7 @@
 A form validation website to test my skills on building a secure form on the front-end side. This form will validate multiple inputs from e-mail to password with complexity requirements with the help of Regex.  
 
 ## How it works:
-![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `This website was a labor of love trying to figure out the right Regex for the HTML`
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `WARNING: THIS WEBSITE IS BEST ACCESSED ON CHROME`
 
 There are 6 fields on this form you need to fill:
 
